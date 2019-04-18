@@ -1,12 +1,11 @@
 the rainbow and the unicorn and the pony
 
 purple
-blue pink
-orange
+blue pink --- changed
+orange    --- changed
+added added ---- added
 indigo
-Green
-unicorn
-yellow
+Green (2 lines deleted after this line)
 these are the colors of rainbow
 and the unicorn.
 Pony.
